@@ -1,0 +1,62 @@
+<!DOCTYPE html> 
+<html lang="en"> 
+<head> 
+    <meta charset="UTF-8"> 
+    <meta http-equiv="X-UA-Compatible" content="IE=edge"> 
+    <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+    <title>Vishal Kumar</title> 
+</head> 
+<body> 
+    <h1>Assignment 1 CSL3403</h1> 
+    <hr> 
+    <h2> 
+    <ul> 
+        <li>Name:Vishal Kumar</li> 
+        <li>Roll No. 2006169</li> 
+        <li>Date:28/08/2021</li> 
+    </ul> 
+</h2> 
+    <hr> 
+    <table width="80%" border=5px> 
+        <thead> 
+            <tr> 
+                <th width="40%" rowspan="4">Cities</th> 
+                <th width="40%" rowspan="4">Monuments</th> 
+                <th width="40%" rowspan="4">Photos</th> 
+            </tr> 
+        </thead>         <tbody> 
+            <tr> 
+                <td>Agra</td> 
+                <td>Taj Mahal</td> 
+                <td><img src="https://whc.unesco.org/uploads/thumbs/site_0252_
+0008-750-0-20151104113424.jpg" width="100%"                     width="75%"  alt="Photo of Taj Mahal" ></td> 
+                 
+            </tr> 
+            <tr> 
+                <td>Delhi</td> 
+                <td>India Gate</td> 
+                 <td><img src="https://www.culturalindia.net/iliimages/IndiaGate-ili-49-img-1.jpg" width="100%" 
+              width="75%"  alt="Photo of India Gate" ></td> 
+                 
+            </tr> 
+            <tr> 
+                <td>Mumbai</td> 
+                <td>Gateway of India</td> 
+                <td><img src="https://www.trawell.in/admin/images/upload/95598
+0144Mumbai_Gateway_India_Main.jpg"                     width="75%"  alt="Photo of Gateway of India" ></td> 
+                 
+            </tr> 
+            <tr> 
+                <td>Hydrabad</td> 
+                <td>Charminar</td> 
+                <td><img src="https://static.toiimg.com/thumb/msid-
+69146268,width-1200,height-900,resizemode-
+4/.jpg" width="75%"  alt="Photo of Charminar"></td> 
+                 
+                 
+            </tr> 
+             
+        </tbody> 
+    </table> 
+</body> 
+</html> 
